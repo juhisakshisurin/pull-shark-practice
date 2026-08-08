@@ -1,5 +1,3 @@
-# pull-shark-practice
-
 # Pull Shark Practice
 
 This repository is created to learn GitHub pull requests.
